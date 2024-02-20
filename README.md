@@ -3,6 +3,7 @@
 ## 更新日志
 
 - 2024/02/05，经过多次测试QuantumultX在MacOS下无法解决公司内网域名解析问题，转而切换到Stash；
+- 2024/02/20，增加 Google Gemini 访问规则；
 
 ## Stash
 
@@ -14,7 +15,9 @@ Stash基于Clash，社区有更多资料，配置逻辑更清晰，MacOS UI界�
 
 - 2024/02/05，更新了OpenAI相关规则，避免通过香港节点依然无法访问的问题。
 
-## Quantumult X (废弃)
+## Quantumult X (已废弃)
+
+<details>
 
 [配置](./quantumultx/config.conf)，已包含订阅链接。
 
@@ -49,3 +52,5 @@ Stash基于Clash，社区有更多资料，配置逻辑更清晰，MacOS UI界�
 
 - 订阅管理工具，访问[https://sub.store](https://sub.store)
 - BoxJs，访问[http://boxjs.com](http://boxjs.com)
+
+</details>
